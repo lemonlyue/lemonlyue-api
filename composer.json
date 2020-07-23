@@ -1,0 +1,15 @@
+{
+    "name": "lemonlyue/lemonlyue-api",
+    "description": "lemonlyue-api",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "lemonlyue",
+            "email": "lemonlyue@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
