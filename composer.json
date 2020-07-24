@@ -3,7 +3,8 @@
     "description": "lemonlyue-api",
     "type": "library",
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.4.0",
+        "vlucas/phpdotenv": "^5.1@dev"
     },
     "authors": [
         {
