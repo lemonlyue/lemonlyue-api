@@ -11,5 +11,14 @@
             "email": "lemonlyue@163.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Library\\": "library/",
+            "App\\": "app/"
+        },
+        "files": [
+            "library/Helpers.php"
+        ]
+    }
 }
